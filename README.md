@@ -62,6 +62,5 @@ All colors are at the top of `pookie_snake.py`. Change them to make your own the
 pookie-snake/
 ├── pookie_snake.py   # the game
 ├── screenshot.png    # image used in this README
-├── README.md
-└── LICENSE
+└── README.md
 ```
