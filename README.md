@@ -65,7 +65,3 @@ pookie-snake/
 ├── README.md
 └── LICENSE
 ```
-
-## License
-
-This project is under the MIT License. See the [LICENSE](LICENSE) file for details. Free to use and change.
